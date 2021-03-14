@@ -1,0 +1,12 @@
+Database Name: webdevine
+Username : root
+password : 123456
+Database Host : localhost
+Table Prefix : webd_
+
+////////////
+
+Site Title: Web Devine
+Username: rahim
+Password: 123456
+Your Email: abdurrahimcmt@gmail.com
